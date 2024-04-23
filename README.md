@@ -1,2 +1,2 @@
 # archethought-ve
-virtual infrastructure to deploy archethought chat application
+Virtual infrastructure to deploy archethought chat application
